@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @FunnyKoalaBear
 - 🔱 I’m interested in gym, coding, and finance
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on awesome projects
+- 🦾 Majoring in Mechatronics
 - 📫 How to reach me @mithunsbd1 on instagram     
 
 <!---
